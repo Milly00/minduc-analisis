@@ -1,0 +1,1 @@
+# minduc-analisis
