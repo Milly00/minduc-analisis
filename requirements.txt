@@ -1,4 +1,4 @@
-﻿apify-client==1.0.0
+apify-client==1.0.0
 emoji==1.7.0
 Flask==2.2.3
 Flask-Cors==3.0.10
@@ -9,7 +9,7 @@ numpy==1.24.2
 packaging==23.0
 pandas==1.5.3
 pymongo==4.3.3
-pysentimiento==0.6.2
+--no-cache pysentimiento==0.6.2
 python-dotenv==1.0.0
 gunicorn==20.1.0
 
